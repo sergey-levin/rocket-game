@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>wall.qml</file>
+        <file>rocket.qml</file>
+        <file>images/rocket-up.png</file>
+        <file>images/rocket-down.png</file>
+        <file>images/rocket.png</file>
+        <file>images/crate.png</file>
+        <file>images/cloud5.png</file>
+        <file>images/cloud4.png</file>
+        <file>images/cloud3.png</file>
+        <file>images/cloud2.png</file>
+        <file>images/cloud1.png</file>
+        <file>cloud.qml</file>
+        <file>explosion.qml</file>
+    </qresource>
+</RCC>
